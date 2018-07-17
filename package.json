@@ -5,7 +5,8 @@
   "main": "./lib/index.js",
   "scripts": {
     "storybook": "start-storybook -p 9000",
-    "build": "babel src/index.js -o ./lib/index.js"
+    "build": "babel src/index.js -o ./lib/index.js",
+    "prepublish": "npm run build"
   },
   "author": "makotot",
   "license": "MIT",
