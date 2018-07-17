@@ -1,0 +1,32 @@
+{
+  "name": "react-tabbed",
+  "version": "0.1.0",
+  "description": "Tab component with render props",
+  "main": "./lib/index.js",
+  "scripts": {
+    "storybook": "start-storybook -p 9000",
+    "build": "babel src/index.js -o ./lib/index.js"
+  },
+  "author": "makotot",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "@storybook/addon-options": "^3.4.8",
+    "@storybook/cli": "^3.4.8",
+    "@storybook/react": "^3.4.8",
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.5",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1",
+    "babel-preset-stage-0": "^6.24.1",
+    "html-webpack-plugin": "^3.2.0",
+    "prop-types": "^15.6.2",
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1"
+  },
+  "peerDependencies": {
+    "prop-types": ">=15",
+    "react": ">=16"
+  }
+}
