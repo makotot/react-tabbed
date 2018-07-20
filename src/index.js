@@ -41,7 +41,7 @@ class Tabbed extends React.Component {
             index: props.index,
           })
         }
-      }
+      },
     }
   }
 
