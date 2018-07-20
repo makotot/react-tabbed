@@ -1,5 +1,5 @@
 {
-  "name": "react-tabbed",
+  "name": "@makotot/react-tabbed",
   "version": "0.1.0",
   "description": "Tab component with render props",
   "main": "./lib/index.js",
