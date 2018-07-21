@@ -1,6 +1,6 @@
 import React from 'react'
 import { storiesOf } from '@storybook/react'
-import Tabbed from './'
+import Tabbed from '../'
 
 storiesOf('Tabbed', module)
   .add('uncontrolled', () => {
