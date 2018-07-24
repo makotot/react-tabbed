@@ -27,8 +27,6 @@ const setup = () => {
     />
   )
 
-  console.log(wrapper.debug())
-
   return {
     wrapper,
   }
