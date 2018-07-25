@@ -8,7 +8,8 @@
     "lint": "eslint ./src/index.js",
     "test": "jest",
     "build": "babel src/index.js -o ./lib/index.js",
-    "prepublish": "npm run lint && npm run test && npm run build"
+    "prepublish": "npm run lint && npm run test && npm run build",
+    "publish": "npm publish --access=public"
   },
   "jest": {
     "setupFiles": [
