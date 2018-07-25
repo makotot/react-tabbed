@@ -1,5 +1,8 @@
 # `<Tabbed />`
 
+[![travis](http://img.shields.io/travis/makotot/react-tabbed.svg?style=flat-square)](https://travis-ci.org/makotot/react-tabbed)
+[![License](http://img.shields.io/npm/l/@makotot/react-tabbed.svg?style=flat-square)](https://github.com/makotot/react-tabbed)
+
 > Tab component with render props.
 
 
