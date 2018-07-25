@@ -15,6 +15,10 @@
       "./setupTests.js"
     ]
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/makotot/react-tabbed.git"
+  },
   "author": "makotot",
   "license": "MIT",
   "dependencies": {},
@@ -45,5 +49,12 @@
   "peerDependencies": {
     "prop-types": ">=15",
     "react": ">=16"
-  }
+  },
+  "keywords": [
+    "react",
+    "react-component",
+    "component",
+    "tab",
+    "render props"
+  ]
 }
